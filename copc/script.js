@@ -180,46 +180,8 @@
 			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
 			id: 12
 		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 13
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 14
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 15
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 16
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 17
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 18
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 19
-		},
-		{
-			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
-			id: 20
-		},
+
+
 	];
     
 	Memory.init(cards);
