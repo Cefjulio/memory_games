@@ -52,7 +52,7 @@
 					setTimeout(function(){
 						$(".picked").removeClass("picked");
 						Memory.paused = false;
-					}, 600);
+					}, 6000);
 				}
 				if($(".matched").length == $(".card").length){
 					_.win();
