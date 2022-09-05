@@ -102,14 +102,17 @@
 	    	return array;
 		},
 
+		//<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/codepen-logo.png"\
+		//alt="Codepen" />
 		buildHTML: function(){
 			var frag = '';
+			let counter = 0;
 			this.$cards.each(function(k, v){
+				counter ++;
 				frag += '<div class="card" data-id="'+ v.id +'"><div class="inside">\
 				<div class="front"><img src="'+ v.img +'"\
 				alt="'+ v.name +'" /></div>\
-				<div class="back"><img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/codepen-logo.png"\
-				alt="Codepen" /></div></div>\
+				<div class="back"> '+ counter +'   </div></div>\
 				</div>';
 			});
 			return frag;
