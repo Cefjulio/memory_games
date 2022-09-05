@@ -143,43 +143,141 @@
 		}, 
 		{
 			name: "javascript",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/js-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/js-logo.png",
+			img: "./img/5A.png",
 			id: 5
 		},
 		{
 			name: "node",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/nodejs-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/nodejs-logo.png",
+			img: "./img/6A.png",
 			id: 6
 		},
 		{
 			name: "photoshop",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/photoshop-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/photoshop-logo.png",
+			img: "./img/7A.png",
 			id: 7
 		},
 		{
 			name: "python",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/python-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/python-logo.png",
+			img: "./img/8A.png",
 			id: 8
 		},
 		{
 			name: "rails",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/rails-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/rails-logo.png",
+			img: "./img/9A.png",
 			id: 9
 		},
 		{
 			name: "sass",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sass-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sass-logo.png",
+			img: "./img/10A.png",
 			id: 10
 		},
 		{
 			name: "sublime",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sublime-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/sublime-logo.png",
+			img: "./img/11A.png",
 			id: 11
 		},
 		{
 			name: "wordpress",
-			img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/12A.png",
 			id: 12
+		},
+		{
+			name: "13",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/13A.png",
+			id: 13
+		},
+		{
+			name: "14",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/14A.png",
+			id: 14
+		},
+		{
+			name: "15",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/15A.png",
+			id: 15
+		},
+		{
+			name: "16",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/16A.png",
+			id: 16
+		},
+		{
+			name: "17",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/17A.png",
+			id: 17
+		},
+		{
+			name: "18",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/18A.png",
+			id: 18
+		},
+		{
+			name: "19",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/19A.png",
+			id: 19
+		},
+		{
+			name: "20",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/20A.png",
+			id: 20
+		},
+		{
+			name: "21",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/21A.png",
+			id: 21
+		},
+		{
+			name: "22",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/22A.png",
+			id: 22
+		},
+		{
+			name: "23",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/23A.png",
+			id: 23
+		},
+		{
+			name: "24",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/24A.png",
+			id: 24
+		},
+		{
+			name: "25",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/25A.png",
+			id: 25
+		},
+		{
+			name: "26",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/26A.png",
+			id: 26
+		},
+		{
+			name: "27",
+			//img: "https://s3-us-west-2.amazonaws.com/s.cdpn.io/74196/wordpress-logo.png",
+			img: "./img/27A.png",
+			id: 27
 		},
 
 
